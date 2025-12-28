@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Heart disease Predicion
+🔭 I’m currently working on Heart disease Predicion \n
 🌱 I’m currently learning AIML Coucrce , Fast API
 👯 I’m looking to collaborate on Stock market Agent
 💬 Ask me about Machine learning , deep learning , NLP
