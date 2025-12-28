@@ -1,10 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on Heart disease Predicion \n
-🌱 I’m currently learning AIML Coucrce , Fast API
-👯 I’m looking to collaborate on Stock market Agent
-💬 Ask me about Machine learning , deep learning , NLP
-📫 How to reach me sharmamitanshi@gmail.com
-⚡ Fun fact I am a good Speaker
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **Heart disease Predicion**
+
+- 🌱 I’m currently learning **AIML Coucrce , Fast API**
+
+- 👯 I’m looking to collaborate on **Stock market Agent**
+
+- 💬 Ask me about **Machine learning , deep learning , NLP**
+
+- 📫 How to reach me **sharmamitanshi@gmail.com**
+
+- ⚡ Fun fact **I am a good Speaker**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rohinish54/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mitanshi-sharma/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmamitanshi@gmail.com) 
